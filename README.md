@@ -27,3 +27,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/Pathak-Parthiv/passgen.git
 cd passgen
+python passgen.py
