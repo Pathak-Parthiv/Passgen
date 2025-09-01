@@ -25,5 +25,5 @@ It includes leetspeak, separators, and smart pattern rules to generate prioritiz
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/passwordgen-tool.git
-cd passwordgen-tool
+git clone https://github.com/Pathak-Parthiv/passgen.git
+cd passgen
